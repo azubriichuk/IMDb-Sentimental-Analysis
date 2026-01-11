@@ -18,6 +18,7 @@ Download the project or clone it using git:
 ```bash
 git clone [https://github.com/your-username/imdb-sentiment-analysis.git](https://github.com/your-username/imdb-sentiment-analysis.git)
 cd imdb-sentiment-analysis
+```
 
 ### 2. Install dependecies
-pip install pandas numpy scikit-learn matplotlib seaborn nltk
+```pip install pandas numpy scikit-learn matplotlib seaborn nltk```
