@@ -16,9 +16,11 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the repository
 Download the project or clone it using git:
 ```bash
-git clone https://github.com/azubriichuk/IMDb-Sentimental-Analysis.git imdb-sentiment-analysis
-cd imdb-sentiment-analysis
+git clone https://github.com/azubriichuk/IMDb-Sentimental-Analysis.git
 ```
 
 ### 2. Install dependecies
-```pip install -r requirements.txt```
+```python -m pip install -r requirements.txt```
+
+### 3. Download data from Kaggle.com
+```https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews```
